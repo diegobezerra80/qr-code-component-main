@@ -8,8 +8,7 @@ This is my solution to the [QR code component challenge](https://www.frontendmen
 
 ## 🔗 Links
 
-- Solution URL: [Add your solution URL here](https://www.frontendmentor.io/solutions/...)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://diegobezerra80.github.io/qr-code-component-main/
 
 ## 🛠️ My process
 
